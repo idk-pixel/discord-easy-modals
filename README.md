@@ -1,2 +1,2 @@
 # discord-easy-modals
-An easy-to-use models creator.
+An easy-to-use discord modals package.
